@@ -1,7 +1,7 @@
 1. Data Visualization and Presentation: 
   1.1 Tableau
   1.2 Flask Website
-  1.3 
+  1.3 D3
   
 2. Data Storage and System: 
   2.1 Unix, checked
