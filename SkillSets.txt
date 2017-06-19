@@ -8,3 +8,5 @@
   2.2 Hadoop, Hive, Pig
   2.3 Spark
   2.4 AWS
+
+3. Python Object Oriented Programming
