@@ -1,4 +1,4 @@
-Website configuation
+Website configuation (not so important now)
 1. HTML&CSS 10 hours in code academy
 2. Javascript 7 hours in code academy
 3. D3
